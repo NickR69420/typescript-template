@@ -5,7 +5,7 @@
   "main": "dist/src/index.js",
   "scripts": {
     "start": "npm run build && node .",
-    "build": "tsc -b src",
+    "build": "tsc",
     "format": "prettier --write src"
   },
   "repository": {
