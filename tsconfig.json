@@ -1,0 +1,8 @@
+{
+	"extends": "@nickdoespackages/ts-config",
+	"compilerOptions": {
+		"outDir": "dist",
+		"rootDir": "./"
+	},
+	"include": ["src"]
+}
