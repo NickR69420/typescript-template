@@ -24,9 +24,9 @@
   "devDependencies": {
     "@nickdoespackages/prettier-config": "^1.0.1",
     "@nickdoespackages/ts-config": "^1.0.1",
-    "@types/node": "^18.7.21",
+    "@types/node": "^20.14.10",
     "prettier": "^3.3.2",
-    "typescript": "^4.8.3"
+    "typescript": "^5.5.3"
   },
   "prettier": "@nickdoespackages/prettier-config"
 }
