@@ -26,7 +26,7 @@
     "@nickdoespackages/ts-config": "^1.0.1",
     "@types/node": "^22.0.0",
     "prettier": "^3.3.3",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.4"
   },
   "prettier": "@nickdoespackages/prettier-config"
 }
